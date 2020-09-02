@@ -34,8 +34,8 @@ ssh: `git clone git@github.com/quigley-c/trdg.git`
 
 http: `git clone https://github.com/quigley-c/tdrg/`
 
-Once the tool has been cloned it can be run. As mentioned before it is run
-with the `python` command. The complete command looks like this:
+As mentioned before TDRG is run with the `python` command. The complete command
+looks like this:
 
 `python randomizer.py <filename> <num. players>`
 
