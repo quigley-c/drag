@@ -8,7 +8,7 @@ Sacred Stones draft. A regular draft, when completed, might look like this:
 
 ![tierlist draft](./sample-list.png "list")
 
-Note: Image for example purposes only, tool does not generate image.
+(note: Image for example purposes only, tool does not generate image.)
 
 There isn't a lot of time and/or the four people don't
 want to sit through a whole draft session so they use TDRG to generate the
