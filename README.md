@@ -26,7 +26,7 @@ https://github.com/quigley-c/tdrg/compare)!
 To run TDRG you'll need to make sure you have [python](
 https://www.python.org/downloads/) installed on your PC.
 
-To run the tool first clone the github repository via ssh or https. The link
+First, clone the github repository via ssh or https. The link
 to do so can be found at the top of the repository page. To clone from the
 command line (linux / unix) use the `git` command as follows:
 
