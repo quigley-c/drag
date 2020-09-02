@@ -60,4 +60,9 @@ characters is listed on it's own line in the .txt file.
 
 Lines one (1) and two (2) are comma separated lists of names. The third line,
 for the coupled characters, are comma separated couples of colon-delineated
-characters. Eg. `Marisa:Amelia,Ewan:L'Arachel,...`
+characters. Eg.
+
+`Marisa:Amelia,Ewan:L'Arachel,...`
+
+As a note: The character that is required is listed first. In the example Marisa
+is required to acquire Amelia.
